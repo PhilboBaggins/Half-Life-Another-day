@@ -1,3 +1,7 @@
+# Half-Life - Another day
+
+Design files for a Half-Life mod. At this point it's still in the conceptualising stage.
+
 
 
 ## Premise
@@ -49,7 +53,13 @@ Starts like the original Half-Life but nothing goes wrong and the experiment is 
 
 ### Post experiment
 
-Gordon changes back into his lab coat and prepares for a day at the office. In this stage we will need to train the player of the mechanics of the game, introduce them the Gordon's office, etc. Gordon should run into Barney Calhoun on the way, who will promise to buy Gordon a beer after work and (indirectly) communicate the rules of the game to the player; specifically the fact that the Gordon can not leave the office until the end of the day and the only to progress to the final stage of the game is to meet Barney at the exit.
+Gordon changes back into his lab coat and prepares for a day at the office. In this stage we will need to train the player of the mechanics of the game, introduce them the Gordon's office, etc. Gordon should run into Barney Calhoun on the way, who will promise to buy Gordon a beer after work and (indirectly) communicate the rules of the game to the player; specifically the fact that the Gordon can not leave the office until the end of the day and the only way to progress to the final stage of the game is to meet Barney at the exit.
+
+### Main stage
+
+Gordon wanders around the office until 5pm.
+
+This is the majority of the game. All the game dynamics below will apply to this stage.
 
 ### End game
 
