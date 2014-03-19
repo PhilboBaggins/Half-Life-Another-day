@@ -101,3 +101,8 @@ Some other notes and ideas that need to be fleshed out further.
     * The part of this mod where Gordon changes out of the HEV suit and back into his lab coat should be equally distinctive although perhaps not so exhilarating.
     * After Gordon changes back into his lab coat
 * Gman
+* Chess game
+    * Gordon likes chess ... probably
+    * Gordon should be playing a game of chess with one of the other scientists in the office
+    * The player should not ever see this scientist as he/she is far more important/busy than our (non-hero) Gordon
+    * Gordon will be allowed to make a single move and then must leave the room for a some (possibly random) amount of time before the computer moves the other scientist's piece
