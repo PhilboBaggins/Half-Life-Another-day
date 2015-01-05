@@ -79,7 +79,7 @@ Some other notes and ideas that need to be fleshed out further.
     * Computer
         * Email
         * Fill out report on the experiment
-            * Possible heck-boxes for outcome of experiment
+            * Possible check boxes for outcome of experiment
                 * No observable result
                 * Science!
                 * Resonance cascade
@@ -99,7 +99,6 @@ Some other notes and ideas that need to be fleshed out further.
 * Suiting up
     * One of the ??adjective?? memories I have of playing the original Half-Life is getting into the HEV suit; music starts ups, an animation shows Gordon's hands as he gets used to the suit, etc. It's an exhilarating experience.
     * The part of this mod where Gordon changes out of the HEV suit and back into his lab coat should be equally distinctive although perhaps not so exhilarating.
-    * After Gordon changes back into his lab coat
 * Gman
 * Chess game
     * Gordon likes chess ... probably
