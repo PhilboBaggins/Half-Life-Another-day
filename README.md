@@ -25,9 +25,9 @@ This is still just a working title at this point. Some options are:
 
 ## Timeline
 
-> 8:47 - After his HEV Suit Training, Gordon Freeman starts his tram ride from Level 3 Dormitories at Black Mesa. He is 30 minutes late.[16]
+> 8:47 - After his HEV Suit Training, Gordon Freeman starts his tram ride from Level 3 Dormitories at Black Mesa. He is 30 minutes late.
 >
-> 8:58 - The Black Mesa Incident. Freeman conducts an experiment on sample GG-3883 in Sector C's Anti-Mass Spectrometer. The experiment goes wrong and triggers a Resonance Cascade, teleporting Xen creatures to Earth.[16]
+> 8:58 - The Black Mesa Incident. Freeman conducts an experiment on sample GG-3883 in Sector C's Anti-Mass Spectrometer. The experiment goes wrong and triggers a Resonance Cascade, teleporting Xen creatures to Earth.
 
 Source: http://half-life.wikia.com/wiki/Timeline_of_the_Half-Life_universe
 
