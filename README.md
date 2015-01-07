@@ -31,7 +31,7 @@ This is still just a working title at this point. Some options are:
 
 Source: http://half-life.wikia.com/wiki/Timeline_of_the_Half-Life_universe
 
-If we estimate a successful experiment takes about 15 minutes, and we allow another 15 minutes to acclimatise the player to the modded game environment, introduce new game features, then the player will have to "survive" seven and a half hours (08:30 to 19:00) before being able to leave the office.
+If we estimate a successful experiment takes about 15 minutes, and we allow another 15 minutes to acclimatise the player to the modded game environment, introduce new game features, then the player will have to "survive" seven and a half hours (9:30 to 17:00) before being able to leave the office.
 
 
 
