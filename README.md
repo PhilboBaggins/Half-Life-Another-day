@@ -46,10 +46,10 @@ Just like the original Half-Life.
 Starts like the original Half-Life but nothing goes wrong and the experiment is completed successfully. It should go something like this:
 
 1. Gordon pushes the sample into the beam, pushes the button to start the rotors, etc
-2. The Anti-Mass Spectrometer powers up then sparks fly and some of the original audio of the scientists screaming should play... whatever is needed to make the player thing the experiment has gone wrong again
+2. The Anti-Mass Spectrometer powers up then sparks fly and some of the original audio of the scientists screaming should play ... whatever is needed to make the player thing the experiment has gone wrong again
 3. New scientist audio plays informing Gordon that there is nothing to worry about, the scientists were just screaming over split coffee and the experiment is proceeding normally
-4. Experiment is proceeding normally; Gordon has to twits some knobs and push other buttons while the scientists mutter about the great readings they're getting
-5. The experiment ends, Gordon leaves. The other scientists thank him, mention again how interesting the new readings are. They start to explain how these readings could drastically change their current understanding of the universe, etc. but ultimately stop short because Gordon is "just an experimental physicist" and probably wouldn't understand it all.
+4. Experiment is proceeding normally; Gordon has to twist some knobs and push buttons while the scientists mutter about the great readings they're getting
+5. The experiment ends and Gordon leaves the test chamber. The other scientists thank him, mention again how interesting the new readings are. They start to explain how these readings could drastically change their current understanding of the universe, etc. but ultimately stop short because Gordon is "just an experimental physicist" and probably wouldn't understand it all.
 
 ### Post experiment
 
@@ -69,7 +69,7 @@ Gordon and Barney leave Black Mesa. Barney drives to a nearby tavern for a few b
 
 ## Game dynamics
 
-Some other notes and ideas that need to be fleshed out further.
+Some notes and ideas that need to be fleshed out further.
 
 * Sit at desk
     * Shuffle papers around
@@ -99,7 +99,7 @@ Some other notes and ideas that need to be fleshed out further.
 * Suiting up
     * One of the ??adjective?? memories I have of playing the original Half-Life is getting into the HEV suit; music starts ups, an animation shows Gordon's hands as he gets used to the suit, etc. It's an exhilarating experience.
     * The part of this mod where Gordon changes out of the HEV suit and back into his lab coat should be equally distinctive although perhaps not so exhilarating.
-* Gman
+* G-man
 * Chess game
     * Gordon likes chess ... probably
     * Gordon should be playing a game of chess with one of the other scientists in the office
